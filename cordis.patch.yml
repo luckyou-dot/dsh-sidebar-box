@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-box
+      name: '@local/dsh-sidebar-box'
