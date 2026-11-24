@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar box",
+    "description": "Adds a Sidebar box entry below Plugins in the left sidebar, with a minimal workbench management page. It reads every registered plugin function entry, so you can collect, order, pin, rename, and search any of them. Collected entries no longer appear under More, and all settings are stored in this browser."
+  }
+}
